@@ -11,7 +11,8 @@ This is a dynamic calculator application built with a frontend and backend setup
 - **Advanced Operations**:
   - Power.
   - Logarithm.
-  - SQRT
+  - Sqrt.
+  - Modulus.
 - **Expression Parsing**: The application parses complex expressions, ensuring correct evaluation order.
 - **Error Handling**: Invalid inputs are handled gracefully with descriptive error messages.
 - **History**: Keeps track of previous calculations for user reference.
@@ -42,8 +43,8 @@ This is a dynamic calculator application built with a frontend and backend setup
 ### Backend Setup
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd calculator-backend
+   git clone https://github.com/SoumavaBiswas/calculator.git
+   cd backend
    ```
 2. Install dependencies:
    ```bash
@@ -57,7 +58,7 @@ This is a dynamic calculator application built with a frontend and backend setup
 ### Frontend Setup
 1. Navigate to the frontend folder:
    ```bash
-   cd calculator-frontend
+   cd frontend
    ```
 2. Install dependencies:
    ```bash
